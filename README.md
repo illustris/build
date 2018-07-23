@@ -147,7 +147,7 @@ an existing tree (see Tips and Tricks below).
 ```bash
 $ mkdir -p $HOME/devel/optee
 $ cd $HOME/devel/optee
-$ repo init -u https://github.com/OP-TEE/manifest.git -m ${TARGET}.xml [-b ${BRANCH}]
+$ repo init -u https://github.com/illustris/manifest.git -m default.xml
 $ repo sync
 ```
 ## 7.4 Get the toolchains
